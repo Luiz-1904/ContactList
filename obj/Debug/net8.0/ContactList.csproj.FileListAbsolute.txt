@@ -1,0 +1,14 @@
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.GeneratedMSBuildEditorConfig.editorconfig
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.AssemblyInfoInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.AssemblyInfo.cs
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.csproj.CoreCompileInputs.cache
+/home/luiz/coisasqueeuuso/Codigos/ContactList/bin/Debug/net8.0/ContactList
+/home/luiz/coisasqueeuuso/Codigos/ContactList/bin/Debug/net8.0/ContactList.deps.json
+/home/luiz/coisasqueeuuso/Codigos/ContactList/bin/Debug/net8.0/ContactList.runtimeconfig.json
+/home/luiz/coisasqueeuuso/Codigos/ContactList/bin/Debug/net8.0/ContactList.dll
+/home/luiz/coisasqueeuuso/Codigos/ContactList/bin/Debug/net8.0/ContactList.pdb
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.dll
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/refint/ContactList.dll
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.pdb
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ContactList.genruntimeconfig.cache
+/home/luiz/coisasqueeuuso/Codigos/ContactList/obj/Debug/net8.0/ref/ContactList.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "anQ+BmdRF/9rsY8ebtAIz9CGbPXkf9BzMjoroXUOU3NVci/PXVPacZJQqPoaWg5zMGSa6q8O/fwZPr3xHDFkJA==",
+  "success": true,
+  "projectFilePath": "/home/luiz/coisasqueeuuso/Codigos/ContactList/ContactList.csproj",
+  "expectedPackageFiles": [
+    "/home/luiz/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
